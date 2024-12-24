@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: server-config
+  profiles:
+    active: default
+
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/Youssafouhba/ExamenKafkaIntegration.git
+          default-label: configuration
+
+server:
+  port: 8888
