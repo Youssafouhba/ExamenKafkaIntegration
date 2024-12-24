@@ -1,0 +1,12 @@
+eureka:
+  client:
+    region: default
+    registry-fetch-interval-seconds: 5
+    service-url:
+      defaultZone: http://localhost:8081/eureka/
+
+logging:
+  level:
+    com.netflix.loadbalancer: DEBUG
+    com.netflix.niws.client: DEBUG
+    com.netflix.discovery: INFO
