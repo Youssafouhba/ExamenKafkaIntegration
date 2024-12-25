@@ -177,12 +177,12 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 
 ## 📞 Contact
 
-- **Email**: contact@your-org.com
+- **Email**: youssefouhba@gmail.com
 - **Issues**: [GitHub Issues](https://github.com/your-org/inventory-order-system/issues)
-- **Wiki**: [GitHub Wiki](https://github.com/your-org/inventory-order-system/wiki)
+- **Wiki**: [GitHub Wiki](https://github.com/Youssafouhba/inventory-order-system/wiki)
 
 ---
 
 <div align="center">
-  Made with ❤️ by Your Organization
+  Made with ❤️ by Youssaf Ouhba
 </div>
